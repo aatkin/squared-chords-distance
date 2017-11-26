@@ -1,0 +1,13 @@
+{
+  "name": "squared-chords-distance",
+  "version": "0.0.1",
+  "description": "Express.js app for serving Python backend sqcd results to client ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anssi Kinnunen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
